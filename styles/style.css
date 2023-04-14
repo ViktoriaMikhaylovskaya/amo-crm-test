@@ -142,7 +142,6 @@ a:hover {
     font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 400;
-    /* width: inherit; */
 }
 
 .colored-text {
@@ -259,11 +258,6 @@ a:hover {
 .contacts {
     text-align: right;
 }
-
-/* .contacts .contacts-list--header {
-    justify-content: flex-end;
-    gap: 10px;
-} */
 
 .copyright {
     text-align: right;
@@ -516,19 +510,6 @@ a:hover {
     .contacts--header {
         display: none;
     }
-
-    /* main::before {
-        content: '';
-        position: absolute;
-        width: 259px;
-        height: 259px;
-        left: 258px;
-        top: 107px;
-
-        background: #833AB4;
-        opacity: 0.5;
-        filter: blur(196px);
-    } */
 
     main::after {
         content: '';
